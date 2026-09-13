@@ -67,7 +67,22 @@ network attacks, threat classification, and forensic logging.
 **Python • Scapy • Nmap • SIEM • Network Security**
 
 ---
+## 🧰 Security Toolkit
 
+**Offensive Security**
+Kali Linux • Burp Suite • Nmap • OWASP ZAP
+
+**Network Security**
+Wireshark • Scapy • TCP/IP • Network Analysis
+
+**Defensive Security**
+SIEM • IDS • Threat Detection • Incident Analysis
+
+**Digital Forensics**
+Autopsy • FTK Imager • Recuva • MOBILedit
+
+**DevSecOps**
+GitHub Actions • Docker • SAST • Dependency Scanning
 ## 📊 GitHub Statistics
 
 <div align="center">
