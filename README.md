@@ -64,7 +64,7 @@ and secure software development.
 - 🤝 **Team Collaboration** — Working effectively across technical and multidisciplinary teams
 - 🗣️ **Technical Communication** — Clearly communicating technical findings, risks, and solutions
 - ⚡ **Adaptability & Continuous Learning** — Quickly learning new technologies, tools, and security techniques
-
+---
 
 ## 🔥 Featured Projects
 
