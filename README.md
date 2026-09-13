@@ -47,11 +47,14 @@ and secure software development.
 `PostgreSQL` `MySQL` `SQLite`
 
 ### 📋 GRC & Compliance
-`ISO/IEC 27001` `GDPR` `DPDP Act (India)` `OWASP Top 10`
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 💻 Programming & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
@@ -76,23 +79,8 @@ network attacks, threat classification, and forensic logging.
 **Python • Scapy • Nmap • SIEM • Network Security**
 
 ---
-## 🧰 Security Toolkit
 
-**Offensive Security**
-Kali Linux • Burp Suite • Nmap • OWASP ZAP
 
-**Network Security**
-Wireshark • Scapy • TCP/IP • Network Analysis
-
-**Defensive Security**
-SIEM • IDS • Threat Detection • Incident Analysis
-
-**Digital Forensics**
-Autopsy • FTK Imager • Recuva • MOBILedit
-
-**DevSecOps**
-GitHub Actions • Docker • SAST • Dependency Scanning
-## 📊 GitHub Statistics
 
 <div align="center">
 
