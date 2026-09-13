@@ -23,22 +23,31 @@ and secure software development.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
-### Cybersecurity
+### 💻 Programming & Automation
+`Python` `FastAPI` `Scapy` `C` `C++` `JavaScript` `SQL`
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+### 🛡️ Threat Detection & Analysis
+`Threat Hunting` `Malware Analysis` `Intrusion Detection` `SIEM`
+`Splunk` `Microsoft Sentinel` `MITRE ATT&CK` `YARA` `Behavioral Analysis`
 
-### Programming
+### 🔎 Security Tools
+`Wireshark` `Nmap` `Burp Suite` `Scapy` `FTK Imager`
+`Autopsy` `Snort`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Networking & Protocols
+`TCP/IP` `DNS` `HTTP/HTTPS` `ARP`
+`Network Monitoring` `Packet Analysis`
 
-### Development & DevSecOps
+### ☁️ Cloud & DevOps
+`AWS` `GCP` `Docker` `Jenkins` `Git`
 
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `SQLite`
+
+### 📋 GRC & Compliance
+`ISO/IEC 27001` `GDPR` `DPDP Act (India)` `OWASP Top 10`
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
