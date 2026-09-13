@@ -57,6 +57,14 @@ and secure software development.
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
+## 🤝 Soft Skills
+
+- 🧠 **Analytical & Critical Thinking** — Breaking down complex security problems and identifying root causes
+- 🔍 **Problem Solving** — Developing practical and security-focused solutions
+- 🤝 **Team Collaboration** — Working effectively across technical and multidisciplinary teams
+- 🗣️ **Technical Communication** — Clearly communicating technical findings, risks, and solutions
+- ⚡ **Adaptability & Continuous Learning** — Quickly learning new technologies, tools, and security techniques
+
 
 ## 🔥 Featured Projects
 
