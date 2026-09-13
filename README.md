@@ -48,6 +48,8 @@ and secure software development.
 
 ### 📋 GRC & Compliance
 
+`ISO/IEC 27001` `GDPR` `DPDP Act (India)` `OWASP Top 10`
+
 ---
 
 ## 🤝 Soft Skills
